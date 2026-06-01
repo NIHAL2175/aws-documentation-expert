@@ -1,19 +1,19 @@
 # 🚀 AWS Documentation Expert
 
-<p align="center">
+<div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
 ![Built With](https://img.shields.io/badge/Built%20With-PartyRock-blue?style=for-the-badge)
 ![Powered By](https://img.shields.io/badge/Powered%20By-Generative%20AI-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
 ## 🌟 About The Project
 
-AWS Documentation Expert is a Generative AI application developed using Amazon PartyRock. The application acts as an intelligent AWS assistant that provides detailed answers, architectural recommendations, troubleshooting guidance, and official documentation references for AWS services.
+AWS Documentation Expert is a Generative AI application developed using Amazon PartyRock. The application acts as an intelligent AWS assistant that provides detailed answers, architectural recommendations, troubleshooting guidance and official documentation references for AWS services.
 
 The goal of this project is to simplify AWS learning and help users quickly access reliable cloud knowledge without manually searching through extensive documentation.
 
@@ -87,10 +87,6 @@ How do I secure an Amazon S3 bucket?
 What is the difference between ECS and EKS?
 
 How can I implement multi-account governance in AWS?
-
-What are AWS Well-Architected best practices?
-
-How do I configure AWS Transit Gateway?
 ```
 
 ---
@@ -106,8 +102,6 @@ How do I configure AWS Transit Gateway?
 ---
 
 ## 🎓 Learning Outcomes
-
-Through this project I learned:
 
 - Prompt Engineering
 - Generative AI Application Development
