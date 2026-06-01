@@ -1,11 +1,13 @@
 # 🚀 AWS Documentation Expert
 
-> An AI-powered AWS knowledge assistant built with Amazon PartyRock that helps users explore AWS services, cloud architectures, security best practices, troubleshooting techniques, and official documentation references.
+<p align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![PartyRock](https://img.shields.io/badge/Built%20With-PartyRock-blue)
-![AI](https://img.shields.io/badge/Powered%20By-Generative%20AI-green)
-![Status](https://img.shields.io/badge/Status-Live-success)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge)
+![Built With](https://img.shields.io/badge/Built%20With-PartyRock-blue?style=for-the-badge)
+![Powered By](https://img.shields.io/badge/Powered%20By-Generative%20AI-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
+
+</p>
 
 ---
 
