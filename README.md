@@ -116,18 +116,6 @@ Through this project I learned:
 
 ---
 
-## 👨‍💻 Author
-
-### Nihal N
-
-🔗 LinkedIn:  
-https://www.linkedin.com/in/nihal-n-cse/
-
-🔗 GitHub:  
-https://github.com/NIHAL2175
-
----
-
 ## 📄 License
 
 This project was developed for educational purposes as part of AWS Generative AI and Amazon PartyRock learning activities.
